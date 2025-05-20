@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import UserNotifications // Важно: этот импорт нужен!
+import UserNotifications 
 
 @main
 struct HorseRacingApp: App {
